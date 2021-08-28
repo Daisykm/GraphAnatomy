@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.Graphic Anatomy.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\tallo\Documents\GitHub\GraphicAnatomy\Graphic Anatomy\.idea\.idea.Graphic Anatomy\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
